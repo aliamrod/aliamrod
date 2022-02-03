@@ -9,3 +9,6 @@
 - 📫 How to reach me: LinkedIn - , 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I play the violin and theremin when I'm not coding.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliamrod)](https://github.com/aliamrod/github-readme-stats)
