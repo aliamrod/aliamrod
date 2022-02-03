@@ -1,7 +1,5 @@
 ### Hello, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Data Scientist and Neuroinformatician. I love tinkering with all things Data. 👋
 
-<!--
-**aliamrod/aliamrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - , 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I play the violin and theremin when I'm not coding.
--->
