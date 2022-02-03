@@ -1,7 +1,6 @@
 ### Hello, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Data Scientist and Neuroinformatician. I love tinkering with all things Data. 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Engineering and Analytics.
 - 🌱 I’m currently reading "The Invention of Nature" (Wulf) and Python Machine Learning (Raschka).
