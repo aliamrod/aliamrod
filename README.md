@@ -6,7 +6,6 @@
 - 🌱 I’m currently reading "The Invention of Nature" (Wulf) and Python Machine Learning (Raschka).
 - 👯 I’m looking to collaborate on any and all Data Analytics and/or Machine Learning project(s).
 - 💬 Ask me about any and all ML and Data Analytics-related issues.
-- 📫 How to reach me: LinkedIn - , 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I play the violin and theremin when I'm not coding.
 
