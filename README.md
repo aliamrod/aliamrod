@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/62684338/152422718-f5f5357c-e51d-4c78-8c49-212643bb0ef9.png)
  
-### Hello, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Data Scientist and Bioinformatician. I love tinkering with all things Data. 👋
+### Hello, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Computational Biologist and Bioinformatician. I love tinkering with all things Data. 👋
 
  [LinkedIn](https://www.linkedin.com/in/aliamahama-rodriguez/) | [Email](alia.mahama@gmail.com) | [Twitter](https://twitter.com/alia_mrod)
 
