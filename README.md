@@ -2,7 +2,7 @@
  
 ### Hello there, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Computational Biologist and Bioinformatician. I love tinkering with all things Data. 
 
-I am also interested in perturbation biology and computational modeling to comprehensively profile and model mechanisms involved in high-grade neuropathologies.
+I am also interested in perturbation biology and computational modeling to comprehensively profile and model mechanisms involved in neuropsychiatric conditions.
 
  [LinkedIn](https://www.linkedin.com/in/aliamahama-rodriguez/) | [Email](alia.mahama@gmail.com) | [Twitter](https://twitter.com/alia_mrod)
 
