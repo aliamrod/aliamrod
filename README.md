@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/62684338/152422718-f5f5357c-e51d-4c78-8c49-212643bb0ef9.png)
  
-### Hello there, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Computational Biologist and Bioinformatician. I love tinkering with all things Data. 
+### Hello there, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Computational Neuroscientist and Neuroinformatician. I love tinkering with all things Data. 
 
 I am also interested in perturbation biology and computational modeling to comprehensively profile and model mechanisms involved in neuropsychiatric conditions.
 
