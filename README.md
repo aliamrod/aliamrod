@@ -13,6 +13,20 @@ I am also interested in perturbation biology and computational modeling to compr
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I play the violin and theremin when I'm not coding.
 
+I am proficient in the following Languages/Frameworks/Technologies:
+
+
+Neuroimaging analysis software/pipelines	| NiPype, Camino (Diffusion MRI), DiPy
+
+Programming Languages | MATLAB, Python, Java, JavaScript, C++, R/RStudio, Rust, Ruby on Rails, Bash Scripting
+
+Operating Systems | Linux, OSX, DICOM, TensorFlow, PyTorch
+
+Data Analytics | Apache Spark, Apache Hive (Big Data)	
+	
+Relational Databases | MySQL, PostgreSQL, noSQL
+
+Miscellaneous | gRPC, Git, JSON APIs, AWS, Bash Scripting, Docker, MongoDB, Apache Airflow, ETL Pipeline + Database Management
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliamrod)](https://github.com/aliamrod/github-readme-stats)
 
