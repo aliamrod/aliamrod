@@ -1,4 +1,8 @@
-![banner](https://user-images.githubusercontent.com/62684338/152422718-f5f5357c-e51d-4c78-8c49-212643bb0ef9.png)
+![banner]<img width="1150" alt="Screen Shot 2023-05-27 at 11 51 33 AM" src="https://github.com/aliamrod/aliamrod/assets/62684338/286fdf01-7ff2-4876-ab22-d66019dc8307">
+
+
+
+(https://user-images.githubusercontent.com/62684338/152422718-f5f5357c-e51d-4c78-8c49-212643bb0ef9.png)
  
 ### Hello there, I'm Alia Mahama-Rodriguez! I am a Biomedical Engineer turned Computational Neuroscientist and Neuroinformatician. I love tinkering with all things Data. 
 
