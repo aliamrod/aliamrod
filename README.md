@@ -12,7 +12,7 @@ I am also interested in perturbation neurology and computational modeling to com
 - 👯 I’m looking to collaborate on any and all Data Analytics and/or Machine Learning project(s).
 - 💬 Ask me about any and all ML and Data Analytics-related issues.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I play the violin and theremin when I'm not coding.
+- ⚡ Fun fact: I play the violin and theremin when I'm not coding. I also founded a non-profit based in Dallas catered towards providing free and accessible trauma-informed yoga to populations susceptible to cPTSD, trauma, etc (e.g. veterans, domestic and sexual assault victims, homeless community, incarcerated inmates). 
 
 I am proficient in the following Languages/Frameworks/Technologies:
 
