@@ -14,20 +14,7 @@ I am also interested in perturbation neurology and computational modeling to com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I play the violin and theremin when I'm not coding. I also founded a non-profit based in Dallas catered towards providing free and accessible trauma-informed yoga to populations susceptible to cPTSD, trauma, etc (e.g. veterans, domestic and sexual assault victims, homeless community, incarcerated inmates). 
 
-I am proficient in the following Languages/Frameworks/Technologies:
 
-
-_Neuroimaging analysis software/pipelines_	| NiPype, Camino (Diffusion MRI), DiPy
-
-_Programming Languages_ | MATLAB, Python, Java, JavaScript, C++, R/RStudio, Rust, Ruby on Rails, Bash Scripting
-
-_Operating Systems_ | Linux, OSX, DICOM, TensorFlow, PyTorch
-
-_Data Analytics_ | Apache Spark, Apache Hive (Big Data)	
-	
-_Relational Databases_ | MySQL, PostgreSQL, noSQL
-
-_Miscellaneous_ | gRPC, Git, JSON APIs, AWS, Bash Scripting, Docker, MongoDB, Apache Airflow, ETL Pipeline + Database Management
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliamrod)](https://github.com/aliamrod/github-readme-stats)
 
