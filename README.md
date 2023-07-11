@@ -16,6 +16,4 @@ I am also interested in perturbation neurology and computational modeling to com
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aliamrod)](https://github.com/aliamrod/github-readme-stats)
-
 
