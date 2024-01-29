@@ -20,7 +20,4 @@ My research primarily focuses on perturbation neurology while incorporating biom
 
 
 
-an approach to creating a safe, supportive space in which students can learn emotional regulation skills through connection with the breath and increased body awareness.
-
-
 
